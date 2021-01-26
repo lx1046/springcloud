@@ -3,8 +3,8 @@ spring:
 ---
 spring:  profiles: dev
   application: 
-    name: microservicecloud-comfig-atguigu-dev
+    name: microservicecloud-comfig-dev
     
 ---
 spring:  profiles: test
-  application:    name: microservicecloud-comfig-atguigu-test
+  application:    name: microservicecloud-comfig-test

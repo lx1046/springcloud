@@ -1,6 +1,6 @@
 config:
-    info: this is config info
+    info: this is config info and and 
 spring:
   profiles: dev
   application: 
-    name: microservicecloud-comfig-dev hhhhhhhhh
+    name: microservicecloud-comfig-dev kkkkkk

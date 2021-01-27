@@ -1,5 +1,5 @@
 config:
-    info: this is config info abc
+    info: this is config info abc version=1
 spring:
   profiles: test
   application: 

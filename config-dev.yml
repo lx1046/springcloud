@@ -1,0 +1,6 @@
+config:
+    info: this is config info dev
+spring:
+  profiles: dev
+  application: 
+    name: microservicecloud-comfig-dev dev

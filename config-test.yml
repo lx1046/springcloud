@@ -1,0 +1,6 @@
+config:
+    info: this is config info test test
+spring:
+  profiles: dev
+  application: 
+    name: microservicecloud-comfig-test 

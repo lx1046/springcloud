@@ -1,6 +1,6 @@
 config:
-    info: this is config info and and 
+    info: this is config info test abc
 spring:
-  profiles: dev
+  profiles: test
   application: 
-    name: microservicecloud-comfig-dev kkkkkk
+    name: microservicecloud-comfig-test abc

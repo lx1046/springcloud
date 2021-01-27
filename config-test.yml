@@ -1,5 +1,5 @@
 config:
-    info: this is config info test test
+    info: this is config info test test abc config-test.yml
 spring:
   profiles: test
   application: 

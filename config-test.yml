@@ -3,4 +3,4 @@ config:
 spring:
   profiles: test
   application: 
-    name: microservicecloud-comfig-test abc config-test.yml adbfasdfasdkfasdkf
+    name: microservicecloud-comfig-test

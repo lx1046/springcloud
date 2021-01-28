@@ -5,4 +5,5 @@ config:
 spring:
   profiles: test
   application: 
-    name: config-client
+    name: config-client-test
+	

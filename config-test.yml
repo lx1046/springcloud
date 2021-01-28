@@ -1,7 +1,7 @@
 config:
-    info: this is config info abc version=5
+    info: this is config info abc version=6
     config:
-       info: this is config coninfo test version =1
+       info: this is config coninfo test version =2
 spring:
   profiles: test
   application: 

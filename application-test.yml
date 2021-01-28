@@ -1,0 +1,8 @@
+config:
+    info: this is config info abc version=5
+    config:
+       info: this is config coninfo test version =1
+spring:
+  profiles: test
+  application: 
+    name: config-client
